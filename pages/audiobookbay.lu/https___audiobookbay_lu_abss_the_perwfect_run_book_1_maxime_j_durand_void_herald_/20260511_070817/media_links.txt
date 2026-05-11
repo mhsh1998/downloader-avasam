@@ -1,0 +1,15 @@
+/apple-touch-icon.png
+/favicon-32x32.png
+/images/BEN.jpg
+/images/FD.jpg
+/images/audiobook.png
+/images/discord.png
+/images/lemmy.png
+/images/mastodon-l.png
+/images/search.gif
+/images/star_off.png
+/images/star_on.png
+/images/tlt.gif
+/safari-pinned-tab.svg
+https://audiobookbay.lu/images/bz.jpg
+https://m.media-amazon.com/images/I/61JlN73lQzL._SL500_.jpg
